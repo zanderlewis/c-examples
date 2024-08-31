@@ -11,3 +11,7 @@ Small C projects I made while relearning C.
 - `#include` is the C equivalent of Python's `import` statement.
 - C is statically typed.
 - C is compiled, not interpreted like Python.
+- `fopen` is the C equivalent of Python's `open` function.
+- `fclose` is the C equivalent of Python's `close` function.
+- `fgets` is the C equivalent of Python's `readline` function.
+- `FILE*` is the C equivalent of Python's file object.
