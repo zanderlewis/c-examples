@@ -26,6 +26,9 @@ I learned some C when I took CS50x, but C wasn't a language I wanted to learn. C
 - `fclose` is the C equivalent of Python's `close` function.
 - `fgets` is the C equivalent of Python's `readline` function.
 - `FILE*` is the C equivalent of Python's file object.
+- `strcat` is the C equivalent of Python's `+` operator to concatenate strings.
+- `strlen` is the C equivalent of Python's `len` function.
+- `strcmp` is the C equivalent of Python's `==` operator to compare strings.
 
 ## How to Run
 1. Clone the repository. `git clone https://github.com/zanderlewis/c-examples.git`
